@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410049** |
+| Nama Lengkap | **Viery Nugroho** |
 | Kelas | TI-4B |
